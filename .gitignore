@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Local/sensitive browser profiles
+.x_chrome_profile/
+
+# Local config & log files containing personal details
+unfollow_log.csv
+keep_following.txt
+block_keywords.txt
+
+# OS generated files
+desktop.ini
+
+# Screenshots/images (not required for script execution)
+*.png
