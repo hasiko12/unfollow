@@ -6,8 +6,6 @@ node_modules/
 
 # Local config & log files containing personal details
 unfollow_log.csv
-keep_following.txt
-block_keywords.txt
 
 # OS generated files
 desktop.ini
